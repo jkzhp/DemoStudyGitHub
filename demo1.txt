@@ -2,6 +2,7 @@ test1
 git modify text
 test commit to github
 
-
-
 如果是两个人呢？edit on master branch
+
+如果是两个人呢？edit on batest branch
+
