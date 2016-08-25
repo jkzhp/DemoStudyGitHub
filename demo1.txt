@@ -2,5 +2,8 @@ test1
 git modify text
 test commit to github
 
-如果是两个人呢？
-测试冲突解决办法
+如果是两个人呢？ 
+测试冲突解决办法 
+edit on master branch
+edit on batest branch
+这是在服务器上修改的内容！ 
